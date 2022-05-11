@@ -1,11 +1,10 @@
 {
-    "user_name": "Rahi Khan",
-    "user_email": "rahikhan360@gmail.com",
-    "job_title": "Freelance Web Developer",
-    "npx_card_handle": "rahikhan",
-    "twitter_username": "rahikhan_dev",
-    "linkedin_username": "rahikhan",
-    "github_username": "rahi-khan",
-    "personal_site": "https://rahikhan.gtsb.io",
-    "resume_url": "https://resume.rahikhan.vercel.app/"
+  "user_name": "Julien Henrotte",
+  "user_email": "hello@julien.how",
+  "job_title": "Front-end developer",
+  "npx_card_handle": "julienhe",
+  "twitter_username": "julien_he",
+  "linkedin_username": "julienhe",
+  "github_username": "julienhe",
+  "personal_site": "https://julien.how/"
 }
